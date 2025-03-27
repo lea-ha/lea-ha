@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hi 👋, I'm Lea Haidamous</h1>
-<h2 align="left"> About me :</h2>
+<!--<h1 align="left">Hi 👋, I'm Lea Haidamous</h1>-->
+<h1 align="left"> About me :</h2>
 <p>I'm currently studying computer engineering at the <a href="https://www.lau.edu.lb/" target="_blank">Lebanese American University</a>  </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
